@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "name": "Metallica: A Biografia",
+        "publisher": "Globo Livros",
+        "author": [
+            {
+                "name": "Mick Wall"
+            }
+        ],
+        "synopsis": "O conceituado jornalista britânico Mick Wall, que a acompanha desde o início, mistura entrevistas e memórias para contar a história completa e definitiva do Metallica."
+    },
+    {
+        "id": "2",
+        "name": "Iron Maiden: Run to the hills - A Biografia Autorizada",
+        "publisher": "Generale",
+        "author": [
+            {
+                "name": "Mick Wall"
+            }
+        ],
+        "synopsis": " A história do Iron Maiden, desde sua origem nos pubs de Londres até seus shows nos imensos festivais mundiais, nos passa mensagens de autoconfiança, determinação e sacrifício pessoal em uma extraordinária odisseia musical."
+    }
+]
