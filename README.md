@@ -31,7 +31,9 @@ Sorry, it doesn't have an overview yet
 # How is the development of the project right now?
 <b>Last update:</b> 13/12/2020
 
-Update README with the new template
+Update README with the new template and added some JSONs.
+
+Btw, I was almost forgetting: I plan to do an index.html to navigate and improve your user experience here
 
 <br/>
 
