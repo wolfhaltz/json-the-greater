@@ -24,7 +24,8 @@ Navigate at the folder and copy + paste the JSON you want ;D
 <b>Thank you for your support!</b>
 
 # Preview
-<img src="overview.png" alt="Castlevania Club - Overview" />
+Sorry, it doesn't have an overview yet
+<!-- <img src="overview.png" alt="JSON - Overview" /> -->
 
 
 # How is the development of the project right now?
