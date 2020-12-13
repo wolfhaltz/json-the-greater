@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "name": "Breve História de Quase Tudo",
+        "publisher": "Companhia das Letras",
+        "author": [
+            {
+                "name": "Bill Bryson"
+            }
+        ],
+        "synopsis": "Um inventário de tudo o que sabemos sobre o mundo, da origem do universo até os dias de hoje, explicado de maneira clara até para o leitor de primeira viagem. Vencedor do prêmio Aventis 2004, o livro teve os direitos de publicação negociados em 29 países e vendeu mais de 2 milhões de exemplares na Inglaterra."
+    },
+    {
+        "id": "2",
+        "name": "Sapiens: Uma breve história da humanidade",
+        "publisher": "L&PM",
+        "author": [
+            {
+                "name": "Yuval Noah Harari"
+            }
+        ],
+        "synopsis": "Somos a única espécie que acredita em coisas que não existem na natureza, como Estados, dinheiro e direitos humanos. Partindo dessa ideia, Yuval Noah Harari, doutor em história pela Universidade de Oxford, aborda em Sapiens a história da humanidade sob uma perspectiva inovadora."
+    }
+]
