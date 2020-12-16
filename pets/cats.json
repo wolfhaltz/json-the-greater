@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Luna",
+        "photo": "",
+        "isVacinated": true,
+        "birthday": "01/12/2014"
+    },
+    {
+        "name": "Mingau",
+        "photo": "",
+        "isVacinated": false,
+        "birthday": "10/11/2020"
+    },
+    {
+        "name": "Rick",
+        "photo": "",
+        "isVacinated": true,
+        "birthday": "25/10/2018"
+    }
+]
